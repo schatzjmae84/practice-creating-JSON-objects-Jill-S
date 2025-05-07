@@ -3,7 +3,8 @@
     "releaseYear": 2010,
     "isAvailable": true,
     "genres": ["Adventure", "Family", "Fantasy"],
-    "cast": {
+    "cast": [
+        {
         "name": "Johnny Depp",
         "character": "Mad Hatter",
         "role": "Lead"
@@ -23,4 +24,5 @@
         "character": "White Queen",
         "role": "Supporting"
     }
+  ] 
 }
